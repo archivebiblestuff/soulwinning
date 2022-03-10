@@ -1,11 +1,11 @@
-title: Doctrine Database
-description:  List of doctrines
+title: Soulwinning
+description:  He that winneth souls is wise
 remote_theme: tuur29/pages-themes-cayman
 darkmode: true
 color:
   header: "#000"
-  gradient_left: "#57D45F"
-  gradient_right: "#57D45E"
+  gradient_left: "#89CFF0"
+  gradient_right: "#89CFF0"
 logo_url: 
 gems:
 - jekyll-seo-tag
