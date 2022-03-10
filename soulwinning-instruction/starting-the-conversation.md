@@ -3,9 +3,26 @@ title: Starting the Conversation
 layout: default
 ---
 ## 1 - Starting the Conversation
-* If you are going door to door, start with a friendly knock. 
-* Say that you are a Christian/Denomination right away (eg Baptist) so they don't mistake you for a Jehovah's witness. 
-* Say that you are there to invite people to Church
+
+Depending on if you're going soul winning with a church versus doing it with friends or by yourself, generally you'll want to follow this pattern:
+
+* **With a church:** "Hey, my name is (Your Name) and I'm with (Your Church's Name) inviting you to come visit. Do you go to church anywhere around here? Well hey more important than church:"
+
+* **Independent:** "Hey, my name is (Your Name) and I'm a Baptist going around spreading the gospel and asking people this important question:"
+
+Next, follow up with the question "God forbid, if you were to die today, are you 100% sure you'd go to heaven?"
+
+* **Not 100% sure:** "Alright, well if you have 10 minutes I'd love to show you how the Bible says you can be 100% sure."
+
+* **Claims to be 100% sure:** "Awesome! If I may, what do you believe it takes to go to heaven?"
+
+* **Anything but 100% faith alone:** "A lot of people think that (you have to be a good person, turn from sins, go to church, etc...) but the Bible says something different. Mind if I share that with you?"
+
+* **Answers 100% faith alone:** "Amen, that's what I/we believe as well."
+
+If they give any answer that doesn't end in 100% assurance in faith alone, give the gospel.
+
+* If they don't want to hear the gospel (busy, gives an excuse, just not interested), leave them with a verse such as from John 3:16. "Hey let me just leave you with one quick verse." If they seem receptive after that, offer again to share the gospel, and if they are still refusing to hear it, tell them to have a great day and move on to the next door.
 * Cut to the chase don't waste people's time: let them know who you are and why you are there
 * Ask questions but don't interrogate people
 
