@@ -58,6 +58,7 @@ title: Salvation Videos in Other Languages
 
 ### R
 * [Russian](https://www.youtube.com/watch?v=8tjJQ-I0JCM)
+
 ### S
 * Soon
 
