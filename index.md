@@ -26,3 +26,10 @@ layout: default
 * Seminar 3: *[Once Saved, Always Saved (OSAS)](https://www.youtube.com/watch?v=qWyLfuUkMBc&list=PLnnak9ni21Y9BMGOfr3XxAcGadBKC0lQj&index=5)*
 * Seminar 4: *[Finishing Leading in Prayer](https://www.youtube.com/watch?v=lztNNIQ3eEc&list=PLnnak9ni21Y9BMGOfr3XxAcGadBKC0lQj&index=7)*
 * Seminar 5: *[Tips for Different Religions](https://www.youtube.com/watch?v=S2mHrtu-DLs&list=PLnnak9ni21Y9BMGOfr3XxAcGadBKC0lQj&index=9)*
+
+
+## Good websites to check out:
+
+[GoSoul.Win](https://gosoul.win/)
+
+[GetEternal.Life](https://geteternal.life)
