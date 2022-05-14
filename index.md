@@ -31,6 +31,7 @@ Can't speak their language? Check out [languages](soulwinning/languages).
 * Seminar 4: *[Finishing Leading in Prayer](https://www.youtube.com/watch?v=lztNNIQ3eEc&list=PLnnak9ni21Y9BMGOfr3XxAcGadBKC0lQj&index=7)*
 * Seminar 5: *[Tips for Different Religions](https://www.youtube.com/watch?v=S2mHrtu-DLs&list=PLnnak9ni21Y9BMGOfr3XxAcGadBKC0lQj&index=9)*
 
+---
 
 ## Good websites to check out:
 
