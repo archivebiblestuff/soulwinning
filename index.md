@@ -17,8 +17,11 @@ layout: default
    * [Last point](soulwinning/soulwinning-instruction/religion#last-point)
 
 #### 6 - [Key Verses](/soulwinning/soulwinning-instruction/key-verses)
+
 ---
+
 Can't speak their language? Check out [languages](/languages).
+
 ---
 
 # Seminar Links
