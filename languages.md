@@ -60,7 +60,7 @@ title: Salvation Videos in Other Languages
 * [Russian](https://www.youtube.com/watch?v=8tjJQ-I0JCM)
 
 ### S
-* Soon
+* [Serbian](https://www.youtube.com/watch?v=27kPEB-ypOQ)
 
 ### T
 * Soon
