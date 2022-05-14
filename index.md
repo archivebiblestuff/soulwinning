@@ -20,7 +20,7 @@ layout: default
 
 ---
 
-Can't speak their language? Check out [languages](soulwinning/languages).
+Can't speak their language? Check out [languages](soulwinning-instruction/languages).
 
 ---
 
