@@ -33,11 +33,9 @@ Can't speak their language? Check out [languages](/languages).
 ---
 ## Cool little tips
 
-[Have a plan](https://youtu.be/cLUlV3TSyus)
-
-[Use the Bible](https://youtu.be/-aCdnXajk4s)
-
-[Shaking the dust out of your feet](https://youtu.be/g45SOrkgRtc)
+* [Have a plan](https://youtu.be/cLUlV3TSyus)
+* [Use the Bible](https://youtu.be/-aCdnXajk4s)
+* [Shaking the dust out of your feet](https://youtu.be/g45SOrkgRtc)
 
 ---
 ## Good websites to check out:
